@@ -19,8 +19,8 @@
       <scope>test</scope>
     </dependency>
     <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
+      <groupId>io.vertx</groupId>
+      <artifactId>ver</artifactId>
       <version>4.12</version>
       <scope>test</scope>
     </dependency>
